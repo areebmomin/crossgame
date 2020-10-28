@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cross Game</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="yellow_s_turn_text_view">Yellow\'s turn</string>
+</resources>
